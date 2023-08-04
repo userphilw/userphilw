@@ -1,5 +1,3 @@
-Interested in learning DevOps best practices. 
-<!---
-userphilw/userphilw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello 👋🏾 👩🏾‍💻
+
+Hi, I'm Phil! I'm a Cloud Architect who holds a strong enthusiasm towards making open-source more readily available, engaging with new tech, and establishing a sense of community 
